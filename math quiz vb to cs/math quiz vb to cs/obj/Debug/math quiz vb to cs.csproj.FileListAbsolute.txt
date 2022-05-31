@@ -1,0 +1,12 @@
+E:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\bin\Debug\math quiz vb to cs.exe.config
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\bin\Debug\math quiz vb to cs.exe.config
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\bin\Debug\math quiz vb to cs.exe
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\bin\Debug\math quiz vb to cs.pdb
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\obj\Debug\math quiz vb to cs.csproj.AssemblyReference.cache
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\obj\Debug\math quiz vb to cs.csproj.SuggestedBindingRedirects.cache
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\obj\Debug\math_quiz_vb_to_cs.Form1.resources
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\obj\Debug\math_quiz_vb_to_cs.Properties.Resources.resources
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\obj\Debug\math quiz vb to cs.csproj.GenerateResource.cache
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\obj\Debug\math quiz vb to cs.csproj.CoreCompileInputs.cache
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\obj\Debug\math quiz vb to cs.exe
+H:\random class stuff\vb to cs\math quiz vb to cs\math quiz vb to cs\obj\Debug\math quiz vb to cs.pdb
